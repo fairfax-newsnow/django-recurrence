@@ -1779,7 +1779,7 @@ recurrence.display.labels = {
     'frequency': gettext('Frequency'),
     'on_the': gettext('On the'),
     'each': gettext('Each'),
-    'every': gettext('Every'),
+    'every': gettext('Repeat Every'),
     'until': gettext('Until'),
     'count': gettext('Occurs %(number)s time'),
     'count_plural': gettext('Occurs %(number)s times'),
