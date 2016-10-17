@@ -70,8 +70,8 @@ div.recurrence-widget .freq {
 }
 
 div.recurrence-widget .interval {
-    display: inline;
-    padding-left: 1em;
+    display: block;
+    padding-top: 1em;
 }
 
 div.recurrence-widget form {
